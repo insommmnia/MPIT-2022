@@ -26,4 +26,4 @@
 расходных материалов и т.д.)
 
 
-![site](https://github.com/insommmnia/MPIT2021Final/blob/main/img/scr2.png?raw=true)
+![site](https://github.com/insommmnia/MPIT-2022/blob/440ae5844645540deedf87c515ffbecc9279c2d4/img/scr2.png?raw=true)
