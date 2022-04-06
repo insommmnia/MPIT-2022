@@ -15,7 +15,7 @@
 бонусы, которые в дальнейшем смогут обменять на бонусы и купоны от спонсоров.
 
 
-![site](https://github.com/insommmnia/MPIT2021Final/blob/main/img/5b919a31-1bc0-4a06-8417-bec6b1b9b403.png?raw=true)
+![site](https://github.com/insommmnia/MPIT2021Final/blob/main/img/scr1.png?raw=true)
 
 
 #### Реализация
@@ -26,4 +26,4 @@
 расходных материалов и т.д.)
 
 
-![site](https://github.com/insommmnia/MPIT2021Final/blob/main/img/7c8227c5-ad05-4006-9e24-4648c66419bf.png?raw=true)
+![site](https://github.com/insommmnia/MPIT2021Final/blob/main/img/img/scr2.png?raw=true)
