@@ -14,8 +14,9 @@
 или сбор мусора около парка. С помощью данного сервиса они смогут узнавать о новых таких мероприятих, а также зарабатывать
 бонусы, которые в дальнейшем смогут обменять на бонусы и купоны от спонсоров.
 
+![site](https://github.com/insommmnia/MPIT-2022/blob/90ee5ed3ab90a88ea3d5f690cb882455a4540585/img/main.png?raw=true)
 
-![site](https://github.com/insommmnia/MPIT-2022/blob/0e8c3aca5b06163c281bfff80868ab8f4024a970/img/scr1.png?raw=true)
+![site](https://github.com/insommmnia/MPIT-2022/blob/258fcb82c9e89974f0d71a3d585bb8481e13c86c/img/sug.png?raw=true)
 
 
 #### Реализация
@@ -26,4 +27,4 @@
 расходных материалов и т.д.)
 
 
-![site](https://github.com/insommmnia/MPIT-2022/blob/440ae5844645540deedf87c515ffbecc9279c2d4/img/scr2.png?raw=true)
+![site](https://github.com/insommmnia/MPIT-2022/blob/f84d56120aefeaaee8eb67d4d269f261e6ae669e/img/mar.png?raw=true)
